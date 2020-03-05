@@ -1,5 +1,7 @@
-package com.sandoval.rxapiexample
+package com.sandoval.rxapiexample.model.service
 
+import com.sandoval.rxapiexample.model.data.Android
+import com.sandoval.rxapiexample.model.api.RequestInterface
 import io.reactivex.Single
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
